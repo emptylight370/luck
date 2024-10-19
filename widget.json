@@ -1,6 +1,29 @@
 {
   "name": "luck",
   "author": "luckept",
-  "url": "https://github.com/luckept/luck",
-  "version": "0.0.6"
+  "url": "https://github.com/lingfengyu-dreaming/luck",
+  "version": "0.0.6",
+  "minAppVersion": "3.1.9",
+  "displayName": {
+    "default": "luck",
+    "zh_CN": "luck"
+  },
+  "description": {
+    "default": "notes count",
+    "zh_CN": "笔记统计"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": []
+  },
+  "keywords": [
+    "luck",
+    "emptylight"
+  ]
 }
