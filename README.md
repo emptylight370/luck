@@ -11,6 +11,10 @@ A widget for SiYuan Note
 - 无法自适应思源窗口的大小
 - 侧边栏的操作为英文
 
+# 更新
+- 2024-11-19 更新仓库链接，可能需要重新安装
+- 2024-11-19 Update repo link, maybe you should reinstall
+
 # 感谢
 | 仓库 | 作者 | 内容 |
 | :---: | :---: | :---: |

@@ -1,8 +1,8 @@
 {
   "name": "luck",
   "author": "luckept",
-  "url": "https://github.com/lingfengyu-dreaming/luck",
-  "version": "0.0.6",
+  "url": "https://github.com/emptylight370/luck",
+  "version": "0.0.6.1",
   "minAppVersion": "3.1.9",
   "displayName": {
     "default": "luck",
